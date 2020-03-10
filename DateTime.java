@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 import java.time.LocalTime;
-public class TodayDate
+public class DateTime
 {
 	public static void main(String[] args)
 	{
